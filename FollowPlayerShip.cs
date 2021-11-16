@@ -1,3 +1,5 @@
+//if you apply this script to a game object, that game object follows the player.
+
 using UnityEngine;
 
 public class FollowPlayerShip : MonoBehaviour
