@@ -1,3 +1,5 @@
+//Some of the fire patterns such as spiral and circle etc.
+
 using UnityEngine;
 using static Assets.Scripts.Tools;
 
