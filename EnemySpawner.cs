@@ -1,3 +1,5 @@
+//This script creates waves of enemies.
+
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
